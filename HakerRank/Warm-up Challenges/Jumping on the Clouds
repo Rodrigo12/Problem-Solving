@@ -13,7 +13,7 @@ jumpingOnClouds has the following parameter(s):
 c: an array of binary integers
 
 Input Format
-The first line contains an integer , the total number of clouds. The second line contains  space-separated binary integers describing clouds c[i] where 0 <= i < n.
+The first line contains an integer , the total number of clouds. The second line contains n space-separated binary integers describing clouds c[i] where 0 <= i < n.
 
 Constraints
 2 <= n <= 100
